@@ -1,5 +1,5 @@
-<h1 align="center"> :moneybag:
-Hospedagem  :moneybag:</h1>
+<h1 align="center"> :hotel:
+Hospedagem  :hotel:</h1>
 
 
 
